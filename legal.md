@@ -2,6 +2,7 @@
 **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ## **Legal**
 **Legal Disclosure**
+
 Information in accordance with Section 5 TMG
 ### **gxai**
 **Artificial intelligence**
@@ -14,9 +15,11 @@ Görlitzer Straße 3
 
 Germany in the EU
 
-**[https://gxai.github.io](https://gxai.github.io)**
+URL: **[https://gxai.github.io](https://gxai.github.io)**
 
-**[gxai.git@gmail.com](gxai.git@gmail.com)**
+E-Mail: **[gxai.git@gmail.com](gxai.git@gmail.com)**
+
+Phone: **[+316 846 843 75](tel:31684684375)**
 
 **Disclaimer**
 

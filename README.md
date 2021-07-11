@@ -14,6 +14,8 @@
 **[amsterdam.photo.blog](https://amsterdam.photo.blog)**
 
 ---
+**[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop)**
+
 **[Legal](https://gxai.github.io/legal)**
 
 Copyright © 2021 gxai

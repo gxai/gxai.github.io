@@ -4,7 +4,9 @@
 ### **gxai**
 **Artificial intelligence**
 
-**Michael Weber**
+<img src="gxai.png" alt="gxai">
+
+**gxai by Michael Weber**
 
 ## **Contact**
 ## **[Call ✆ gxai](tel:31684684375)**

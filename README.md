@@ -3,7 +3,7 @@
 ### gxai
 Artificial intelligence
 
-[gxai.github.io](https://gxai.github.io)
+URL: [gxai.github.io](https://gxai.github.io)
 
 [gxai.git@gmail.com](gxai.git@gmail.com)
 

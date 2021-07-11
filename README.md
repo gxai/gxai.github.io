@@ -1,5 +1,5 @@
 # **[gxai.github.io](https://gxai.github.io)**
-**[Home](https://gxai.github.io)**
+**[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ## **Welcome to gxai**
 ### **gxai**
 **Artificial intelligence**

@@ -1,4 +1,5 @@
 # gxai.github.io
 ## Welcome to gxai
 ### gxai
-"Artificial intelligence"
+'Artificial intelligence'
+[https://gxai.github.io]

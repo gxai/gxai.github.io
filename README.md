@@ -1,3 +1,5 @@
+font-family: 'Ubuntu', sans-serif;
+
 # **[gxai.github.io](https://gxai.github.io)**
 **[Home](https://gxai.github.io)**
 ## **Welcome to gxai**

@@ -1,6 +1,6 @@
-# gxai.github.io
-## Welcome to gxai
-### gxai
+# **[gxai.github.io](https://gxai.github.io)**
+## **Welcome to gxai**
+### **gxai**
 **Artificial intelligence**
 
 **URL: [gxai.github.io](https://gxai.github.io)**

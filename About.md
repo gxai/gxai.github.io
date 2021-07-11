@@ -6,7 +6,7 @@
 
 <img src="gxai.png" alt="gxai">
 
-**gxai by Michael Weber**
+**gxai founded by Michael Weber 2021**
 
 ## **Contact**
 ## **[Call ✆ gxai](tel:31684684375)**

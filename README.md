@@ -3,7 +3,6 @@
 ### **gxai**
 **Artificial intelligence**
 
-### **Projects**
 ### **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 
 ### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**

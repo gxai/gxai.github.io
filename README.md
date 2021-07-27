@@ -2,8 +2,6 @@
 ### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ### **gxai - Artificial intelligence**
 
----
-
 ## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
 
@@ -29,26 +27,22 @@ Artificial intelligence Knowledge representation
 
 Information intelligence interchange
 
----
 
 ## **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
 **Watch how fast this Website is!**
 
----
 
 ### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
 
 ### **[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
 
----
 
 ### **Contact**
 
-### **[Call gxai](tel:31649557828)**
+## **[Call gxai](tel:31649557828)**
 
-### **[E-Mail gxai](mailto:gxai.git@gmail.com)**
+## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
----
 
 **[Legal](https://gxai.github.io/legal)**
 

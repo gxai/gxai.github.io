@@ -24,7 +24,7 @@ Local Guides on Google Maps
 
 Artificial intelligence Knowledge representation Gruop
 
-## **[GitHub](https://gxai.github.com/gxai){:target="_blank"}**
+## **[GitHub](https://github.com/gxai){:target="_blank"}**
 **gxai - Artificial intelligence**
 
 Information intelligence interchange

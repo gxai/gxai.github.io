@@ -4,7 +4,7 @@
 **Artificial intelligence**
 
 ### About gxai
-**gxai is a GitHub project of Michael Weber. You will find here information about my projects, processes & skills. I am involved in many projects & processes & have more than 25 years experience with research in different fields.**
+**gxai is a GitHub project of Michael Weber. You will find here information about my projects, processes & skills. I am involved in many projects & processes & have more than 25 years experience in research in different fields of science.**
 
 ---
 

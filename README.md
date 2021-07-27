@@ -22,7 +22,7 @@
 
 ### **Contact**
 ### **[Call ✆ gxai](tel:31649557828)**
-### **[E-Mail gxai](mailto:gxai.git@gmail.com)**
+### **[E-Mail ✉ gxai](mailto:gxai.git@gmail.com)**
 
 ### [Legal](https://gxai.github.io/legal)
 

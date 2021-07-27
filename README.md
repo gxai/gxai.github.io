@@ -1,7 +1,6 @@
 # **[gxai.github.io](https://gxai.github.io)**
 **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ## **Welcome to gxai**
-### **gxai**
 **Artificial intelligence**
 
 ## **Projects**
@@ -21,9 +20,11 @@
 
 **[Zandvoort Photo Blog](https://zandvoort.photo.blog)**
 
+**[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop)**
+
 ## **Contact**
 ## **[Call ✆ gxai](tel:31649557828)**
-**[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop)**
+## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
 **[Legal](https://gxai.github.io/legal)**
 

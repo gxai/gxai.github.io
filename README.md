@@ -18,11 +18,11 @@
 ### **[GitHub](https://github.com/gxai){:target="_blank"}**
 **GitHub, Artificial intelligence**
 
-### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
+**[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
 
-### **[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
+**[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
 
-### **[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
+**[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
 
 ### **Contact**
 ### **[Call gxai](tel:31649557828)**

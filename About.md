@@ -18,7 +18,7 @@
 
 <img src="Michael-Weber.png" alt="Michael Weber">
 
-**gxai - Founder Michael Weber 2021**
+**Founder of gxai Michael Weber 2021**
 
 ---
 

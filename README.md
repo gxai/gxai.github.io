@@ -32,7 +32,8 @@ Information intelligence interchange
 ---
 
 ### **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
-*** Watch how fast this Website is!
+**Watch how fast this Website is!**
+
 ---
 
 ### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**

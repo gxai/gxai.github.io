@@ -15,6 +15,12 @@
 
 ---
 
+<img src="Michael-Weber.png" alt="Michael Weber">
+
+**Founder of gxai Michael Weber 2021**
+
+---
+
 ### **Contact**
 
 ### **[Call gxai](tel:31649557828)**

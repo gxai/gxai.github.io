@@ -49,7 +49,9 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 ---
 
 ### **Contact**
+
 ### **[Call gxai](tel:31649557828)**
+
 ### **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
 ---

@@ -3,6 +3,8 @@
 ### **gxai**
 **Artificial intelligence**
 
+---
+
 ### **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
 
@@ -23,7 +25,7 @@
 **[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
 
 **[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
-***
+
 ### **Contact**
 ### **[Call gxai](tel:31649557828)**
 ### **[E-Mail gxai](mailto:gxai.git@gmail.com)**

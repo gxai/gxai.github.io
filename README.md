@@ -4,7 +4,7 @@
 **Artificial intelligence**
 
 ## **Projects**
-## **[vvv.code.blog](https://vvv.code.blog)**
+### **[vvv.code.blog](https://vvv.code.blog)**
 
 ## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568)**
 

@@ -22,7 +22,7 @@ Local Guides on Google Maps
 ## **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber){:target="_blank"}**
 **The World Wide Web Consortium**
 
-Artificial intelligence Knowledge representation Gruop
+Artificial intelligence Knowledge representation
 
 ## **[GitHub](https://github.com/gxai){:target="_blank"}**
 **gxai - Artificial intelligence**

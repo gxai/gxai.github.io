@@ -8,7 +8,7 @@
 
 **I am a researcher in Aics (Artificial intelligence & computer science), Web Development, SEO & Google Maps.**
 
-**Code For The Future is my idea for an Ai (Artificial intelligence) interface is simple as possible in usability for non programmers.**
+**Code For The Future is my idea for an Ai (Artificial intelligence) interface wich is simple as possible in usability for non programmers.**
 
 <img src="Michael-Weber.png" alt="Michael Weber">
 

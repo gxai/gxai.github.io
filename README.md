@@ -1,4 +1,4 @@
-<link rel="icon" href="/Michael-Weber.ico" type="image/x-icon" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ### **gxai**

@@ -1,7 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-</head>
-
 # **[gxai.github.io](https://gxai.github.io)**
 ### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ### **gxai**

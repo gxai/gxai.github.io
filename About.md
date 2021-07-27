@@ -3,6 +3,13 @@
 ### **gxai**
 **Artificial intelligence**
 
+### About gxai
+**gxai is a GitHub project of Michael Weber. You will find here information about my projects, processes & skills. I am involved in many projects & processes & have more than 25 years experience with research in different fields.**
+
+**I am a researcher in Aics (Artificial intelligence & computer science), Web Development, SEO & Google Maps.**
+
+**Code For The Future is my idea for an Ai (Artificial intelligence) interface is simple as possible in usability for non programmers.**
+
 <img src="gxai.png" alt="gxai">
 
 **gxai - CEO & Founder Michael Weber 2021**

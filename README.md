@@ -4,30 +4,30 @@
 
 ---
 
-### **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
+## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
 
-### **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
+## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
 
-### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
+## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
 **958.000 Views, Level 7, Started 5/27/2021**
 
-### **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber){:target="_blank"}**
+## **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber){:target="_blank"}**
 **The World Wide Web Consortium**
 
-### **[GitHub](https://github.com/gxai){:target="_blank"}**
+## **[GitHub](https://github.com/gxai){:target="_blank"}**
 **GitHub, Artificial intelligence**
 
 ---
 
-**[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
+### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
 
-**[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
+### **[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
 
 ---
 
-**[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
+### **[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
 
 ---
 

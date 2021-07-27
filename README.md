@@ -5,11 +5,12 @@
 
 ### **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
-### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
-**958.000 Views , Level 7, Started 5/27/2021**
 
 ### **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
+
+### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
+**958.000 Views, Level 7, Started 5/27/2021**
 
 ### **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber){:target="_blank"}**
 **The World Wide Web Consortium**

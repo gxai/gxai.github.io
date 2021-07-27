@@ -5,7 +5,7 @@
 
 <img src="Michael-Weber.png" alt="Michael Weber">
 
-**gxai - Founder Michael Weber 2021**
+**Founder of gxai Michael Weber 2021**
 
 ### **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**

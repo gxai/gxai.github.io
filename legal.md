@@ -1,7 +1,9 @@
 # **[gxai.github.io](https://gxai.github.io)**
-**[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
-## **Legal**
-**Legal Disclosure**
+### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
+### **gxai**
+**Artificial intelligence**
+
+### **Legal Disclosure**
 
 Information in accordance with Section 5 TMG
 ### **gxai**

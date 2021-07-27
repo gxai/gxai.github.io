@@ -1,9 +1,9 @@
 # **[gxai.github.io](https://gxai.github.io)**
 ### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
-## **gxai**
+### **gxai**
 **Artificial intelligence**
 
-## **Projects**
+### **Projects**
 ### **[vvv.code.blog](https://vvv.code.blog)**
 
 ### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568)**
@@ -14,16 +14,16 @@
 
 ### **[GitHub](https://github.com/gxai)**
 
-**[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#)**
+### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#)**
 
-**[Amsterdam Photo Blog](https://amsterdam.photo.blog)**
+### **[Amsterdam Photo Blog](https://amsterdam.photo.blog)**
 
-**[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop)**
+### **[Watch our PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop)**
 
-## **Contact**
-## **[Call ✆ gxai](tel:31649557828)**
-## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
+### **Contact**
+### **[Call ✆ gxai](tel:31649557828)**
+### **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
-**[Legal](https://gxai.github.io/legal)**
+### [Legal](https://gxai.github.io/legal)
 
 Copyright © 2021 gxai

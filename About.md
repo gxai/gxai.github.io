@@ -10,7 +10,7 @@
 
 **Code For The Future is my idea for an Ai (Artificial intelligence) interface is simple as possible in usability for non programmers.**
 
-<img src="gxai.png" alt="gxai">
+<img src="Michael-Weber.png" alt="Michael Weber">
 
 **gxai - CEO & Founder Michael Weber 2021**
 

@@ -1,18 +1,18 @@
 # **[gxai.github.io](https://gxai.github.io)**
 **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
-## **Welcome to gxai**
+### **Welcome to gxai**
 **Artificial intelligence**
 
 ## **Projects**
 ### **[vvv.code.blog](https://vvv.code.blog)**
 
-## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568)**
+### **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568)**
 
-## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/)**
+### **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/)**
 
-## **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber)**
+### **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber)**
 
-## **[GitHub](https://github.com/gxai)**
+### **[GitHub](https://github.com/gxai)**
 
 **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#)**
 

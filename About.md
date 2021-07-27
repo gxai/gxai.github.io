@@ -12,7 +12,7 @@
 
 <img src="Michael-Weber.png" alt="Michael Weber">
 
-**gxai - CEO & Founder Michael Weber 2021**
+**gxai - Founder Michael Weber 2021**
 
 ### **Contact**
 ### **[Call ✆ gxai](tel:31649557828)**

@@ -1,6 +1,7 @@
 # **[gxai.github.io](https://gxai.github.io)**
 ### **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ### **gxai - Artificial intelligence**
+Information intelligence interchange
 
 ## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
@@ -13,7 +14,7 @@ Interface between Ai & the people
 Google Developer Gruop
 
 ## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
-**958.000 Views, Level 7, Started 5/27/2021**
+**1,1 Million Views, Level 7, Started 5/27/2021**
 
 Local Guides on Google Maps
 

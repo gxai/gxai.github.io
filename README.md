@@ -29,7 +29,7 @@ Artificial intelligence Knowledge representation
 Information intelligence interchange
 
 
-## **[PageSpeed](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
+## **[Page Speed](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgxai.github.io%2F&tab=desktop){:target="_blank"}**
 **Watch how fast this Website is!**
 
 Google Developers PageSpeed Insights

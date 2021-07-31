@@ -52,6 +52,8 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 
 ### **[Call gxai](tel:31649557828)**
 
+## **[WhatsApp gxai](https://wa.me/message/VN3GO6SKBR4PH1)**
+
 ### **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
 ---

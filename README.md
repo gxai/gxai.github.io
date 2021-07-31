@@ -34,7 +34,7 @@ Information intelligence interchange
 
 Google Developers PageSpeed Insights
 
-### Other Sites
+### Visit also
 
 
 ### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**

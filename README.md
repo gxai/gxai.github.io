@@ -14,7 +14,7 @@ Interface between Ai & the people
 Google Developer Gruop
 
 ## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
-**1,1 Million Views, Level 7, Started 5/27/2021**
+**1,1 Million Views - Level 8 - Started 5/27/2021**
 
 Local Guides on Google Maps
 

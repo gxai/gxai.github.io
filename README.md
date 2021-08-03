@@ -6,6 +6,8 @@ Information intelligence interchange
 ## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
 
+<a href="url"><img src="https://gxai.github.io/img/Michael-Weber.png" height="auto" width="400" style="border-radius:50%"></a>
+
 Interface between Ai & the people
 
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**

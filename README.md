@@ -8,6 +8,9 @@ Information intelligence interchange
 
 Interface between Ai & the people
 
+![GitHub Logo](/images/Michael-Weber.png)
+Format: ![Alt Text](url)
+
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
 

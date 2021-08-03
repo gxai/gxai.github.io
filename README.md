@@ -53,7 +53,6 @@ Google Developers PageSpeed Insights
 
 ## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
-
 **[Legal](https://gxai.github.io/legal)**
 
 Copyright © 2021 gxai

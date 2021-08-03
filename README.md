@@ -3,12 +3,12 @@
 ### **gxai - Artificial intelligence**
 **Information intelligence interchange**
 
-## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
-**Code For The Future**
-
 <a href="url"><img src="https://gxai.github.io/226192463_164229385778427_3497832883150811529_n.jpg" height="auto" width="400" style="border-radius:50%"></a>
 
 ### gxai- Founder - Michael Weber
+
+## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
+**Code For The Future**
 
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**

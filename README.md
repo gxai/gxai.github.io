@@ -8,9 +8,6 @@ Information intelligence interchange
 
 Interface between Ai & the people
 
-<img src=“https://gxai.github.io/226192463_164229385778427_3497832883150811529_n.jpg">
-
-
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
 

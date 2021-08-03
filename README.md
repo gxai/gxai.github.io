@@ -10,6 +10,8 @@
 ## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**
 **Code For The Future**
 
+Artificial intelligence interface
+
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
 

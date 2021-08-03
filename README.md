@@ -17,7 +17,7 @@ Artificial intelligence interface
 
 Google Developer Gruop
 
-## **[Google May Business](https://vvv.code.blog/google-my-business/){:target="_blank"}**
+## **[Google My Business](https://vvv.code.blog/google-my-business/){:target="_blank"}**
 **Google My Business Optimization**
 
 Google account management

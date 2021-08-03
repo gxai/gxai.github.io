@@ -8,7 +8,7 @@ Information intelligence interchange
 
 <a href="url"><img src="https://gxai.github.io/226192463_164229385778427_3497832883150811529_n.jpg" height="auto" width="400" style="border-radius:50%"></a>
 
-**gxai- Founder - Michael Weber**
+### gxai- Founder - Michael Weber
 
 Interface between Ai & the people
 

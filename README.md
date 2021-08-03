@@ -8,6 +8,7 @@ Information intelligence interchange
 
 Interface between Ai & the people
 
+
 !(https://gxai.github.io/226192463_164229385778427_3497832883150811529_n.jpg)
 
 

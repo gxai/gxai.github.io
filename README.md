@@ -49,14 +49,6 @@ Information intelligence interchange
 
 Google Developers PageSpeed Insights
 
-### Visit also
-
-
-### **[Local Guides Netherlands](https://m.facebook.com/Local-Guides-Netherlands-110067524667431#){:target="_blank"}**
-
-### **[Amsterdam Photo Blog](https://amsterdam.photo.blog){:target="_blank"}**
-
-
 ### **Contact**
 
 ## **[Call gxai](tel:31649557828)**

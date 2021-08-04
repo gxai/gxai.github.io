@@ -23,7 +23,7 @@ Google Developer Gruop
 Google account management
 
 ## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
-**Level 8 - 1,1 Million Views**
+**Level 8 - 1,3 Million Views**
 
 Local Guides on Google Maps
 

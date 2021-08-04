@@ -32,6 +32,12 @@ Local Guides on Google Maps
 
 Artificial intelligence Knowledge representation
 
+
+## **[GitLab](https://gitlab.com/Netherlands){:target="_blank"}**
+**GitLab Netherlands**
+
+GitLab Netherlands Group
+
 ## **[GitHub](https://github.com/gxai){:target="_blank"}**
 **gxai - Artificial intelligence**
 

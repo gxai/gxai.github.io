@@ -57,8 +57,6 @@ Google Developers PageSpeed Insights
 
 ## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
-**[Legal](https://gxai.github.io/legal)**
-
-**[W3C Validated HTML 5](https://validator.w3.org/nu/?doc=https://gxai.github.io){:target="_blank"}**
+**[Legal](https://gxai.github.io/legal) - [W3C Validated HTML 5](https://validator.w3.org/nu/?doc=https://gxai.github.io){:target="_blank"}**
 
 Copyright © 2021 gxai

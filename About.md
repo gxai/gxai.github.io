@@ -22,6 +22,8 @@
 
 ## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
+**[W3C Validated HTML 5](https://validator.w3.org/nu/?doc=https://gxai.github.io){:target="_blank"}**
+
 **[Legal](https://gxai.github.io/legal)**
 
 Copyright © 2021 gxai

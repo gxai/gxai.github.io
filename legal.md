@@ -58,6 +58,8 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 
 ---
 
+**[W3C Validated HTML 5](https://validator.w3.org/nu/?doc=https://gxai.github.io){:target="_blank"}**
+
 **[Legal](https://gxai.github.io/legal)**
 
 Copyright © 2021 gxai

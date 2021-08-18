@@ -57,6 +57,8 @@ Google Developers PageSpeed Insights
 
 ## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
 
+[<img alt="Multilingual Web" src="lider-100-trans.png">](https://validator.w3.org/i18n-checker/check?uri=https%3A%2F%2Fgxai.github.io#validate-by-uri+)
+
 [<img alt="W3C Validated HTML" src="20210818_132846.png">](https://validator.w3.org/nu/?doc=https://gxai.github.io)
 
 **[Legal](https://gxai.github.io/legal)**

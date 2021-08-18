@@ -59,6 +59,6 @@ Google Developers PageSpeed Insights
 
 [<img src="20210818_132846.png">](https://validator.w3.org/nu/?doc=https://gxai.github.io)
 
-**[Legal](https://gxai.github.io/legal)
+**[Legal](https://gxai.github.io/legal)**
 
 Copyright © 2021 gxai

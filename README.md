@@ -3,7 +3,7 @@
 ### **gxai - Artificial intelligence**
 **Information intelligence interchange**
 
-<a href="url"><img alt="Michael Weber" src="https://raw.githubusercontent.com/gxai/gxai.github.io/main/Michael%20Weber%20Web.png"</a>
+[<img alt="Michael Weber" src="https://raw.githubusercontent.com/gxai/gxai.github.io/main/Michael%20Weber%20Web.png">](https://raw.githubusercontent.com/gxai/gxai.github.io/main/Michael%20Weber%20Web.png)
 
 ### gxai- Founder - Michael Weber
 

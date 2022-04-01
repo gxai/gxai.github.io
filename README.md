@@ -3,11 +3,11 @@
 ### **gxai - Artificial intelligence**
 **Information intelligence interchange**
 
-[<img alt="W3C Validated HTML" src="Michael-Weber-Web.png">]
+<img alt="Michael Weber" src="Michael-Weber-Web.png">
 
 ### gxai- Founder - Michael Weber
 
-## **[vvv.gr8.com/](https://vvv.gr8.com){:target="_blank"}**
+## **[vvv.gr8.com](https://vvv.gr8.com){:target="_blank"}**
 **Website**
 
 ## **[vvv.code.blog](https://vvv.code.blog){:target="_blank"}**

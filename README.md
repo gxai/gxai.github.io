@@ -3,7 +3,7 @@
 ### **gxai - Artificial intelligence**
 **Information intelligence interchange**
 
-<a href="url"><img alt="Michael Weber" src="https://gxai.github.io/226192463_164229385778427_3497832883150811529_n.jpg" width="400" style="border-radius:50%"></a>
+<a href="url"><img alt="Michael Weber" src="https://gxai.github.io/Michael Weber Web.png"</a>
 
 ### gxai- Founder - Michael Weber
 
@@ -15,7 +15,7 @@ Artificial intelligence interface
 ## **[Google Developer](https://www.meetup.com/en-AU/gdg-silicon-valley/members/336931816/){:target="_blank"}**
 **GDG Silicon Valley - GDG London**
 
-Google Developer Gruop
+Google Developer Group
 
 ## **[Google My Business](https://vvv.code.blog/google-my-business/){:target="_blank"}**
 **Google My Business Optimization**

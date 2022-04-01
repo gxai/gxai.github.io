@@ -2,8 +2,7 @@
 ## **[Home](https://gxai.github.io)**  **[About](https://gxai.github.io/About)**
 ### **gxai - Artificial intelligence**
 **Information intelligence interchange**
-
-[<img alt="Michael Weber" src="https://raw.githubusercontent.com/gxai/gxai.github.io/main/Michael%20Weber%20Web.png">](https://raw.githubusercontent.com/gxai/gxai.github.io/main/Michael%20Weber%20Web.png)
+[<img alt="W3C Validated HTML" src="Michael-Weber.png">]
 
 ### gxai- Founder - Michael Weber
 

@@ -50,11 +50,11 @@ Google Developers PageSpeed Insights
 
 ### **Contact**
 
-## **[Call gxai](tel:31649557828)**
+## **[Call gxai](tel:31687900332)**
 
-## **[WhatsApp gxai](https://wa.me/message/VN3GO6SKBR4PH1)**
+## **[WhatsApp gxai](https://wa.me/message/JIWJISLKSAKQG1)**
 
-## **[E-Mail gxai](mailto:gxai.git@gmail.com)**
+## **[E-Mail gxai](mailto:vvv.gr8.com@gmail.com)**
 
 [<img alt="Multilingual Web" src="mlw-text-128-white.png">](https://validator.w3.org/i18n-checker/check?uri=https%3A%2F%2Fgxai.github.io#validate-by-uri+)
 

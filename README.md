@@ -20,7 +20,7 @@
 **Google My Business Optimization**
 
 ## **[Google Maps](https://maps.app.goo.gl/Lnubtwco1j3RKj568){:target="_blank"}**
-**Level 8 - 1,3 Million Views**
+**Level 8 - 10 Million Views**
 
 ## **[W3C](https://www.w3.org/community/aikr/wiki/User:Michaelweber){:target="_blank"}**
 **The World Wide Web Consortium**
